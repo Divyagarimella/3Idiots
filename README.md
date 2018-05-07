@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to 3Idiots
+
 
 You can use the [editor on GitHub](https://github.com/Divyagarimella/nedi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Header 1 Divya
+## Header 2 Sureddi
+### Header 3 Amulya
 
 - Bulleted
 - List
